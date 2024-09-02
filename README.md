@@ -32,6 +32,7 @@ Answer: Developing a detailed project schedule is beneficial because it helps en
 
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 
+Answer: My software aims to address the challenges of unemployment by introducing a gig-type environment where users can log in and try and find freelancers that can do certain kinds of jobs or try and showcase their skills towards people looking for skilled freelancers. It is significant because employemnt rates in the country are pretty low. Those lucky to be in employment may also need extra income streams. This platform that I intend to build will address that
 
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
 
@@ -43,7 +44,11 @@ Asnwer: To describe the software solution in a way that captures its essence wit
 
 ## 11. What are the main features or functionalities that make your software stand out?
 
+The main features that will make my software standout are things such as integrating innovative features like in-app training and certification, a task bidding system, and real-time work tracking for transparency 
+
 ## 12. What data is available regarding the market size and growth potential for your software?
+
+The central statistics office in Zambia would allow me to gain insight into the latest employement data available in the nation. I would also be able to partner with trades school and collect data on readily available skilled workers. 
 
 ## 13. How can understanding market trends inform your software’s positioning and development?
 
